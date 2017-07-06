@@ -1,0 +1,20 @@
+{
+  "name": "json-minify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "minify-sans-regexp.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wingify/json-minify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wingify/json-minify/issues"
+  },
+  "homepage": "https://github.com/wingify/json-minify#readme"
+}
